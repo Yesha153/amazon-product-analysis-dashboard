@@ -30,7 +30,8 @@ This project presents an interactive Excel dashboard analyzing Amazon product da
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here)
+<img width="1910" height="790" alt="image" src="https://github.com/user-attachments/assets/81e827ea-7637-4b59-b687-07d55af879fb" />
+
 
 ## 🚀 Outcome
 
